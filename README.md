@@ -23,6 +23,9 @@ This is a simple ToDo web app made using HTML, CSS, JavaScript, and JSON Server.
 - JSON Server
 
 ---
+// Screenshot 
+<img width="1896" height="874" alt="image" src="https://github.com/user-attachments/assets/4d911354-f0ff-403c-9854-994bd18b16aa" />
+
 
 ## 📁 Project Files
 
